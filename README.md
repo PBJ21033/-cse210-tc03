@@ -6,3 +6,5 @@ My name is Devin Johnson. I am a computer engineering major in my fourth semeste
 
 Hello, my name is Jadan White. I am a data science major and in my first semester here at BYU-I. I rock climb for fun and enjoy pretty much anything with computers. I have a long history with python but looking forward to learn more!
 
+Hi, my name is Trevin Jones. I am a computer science major. I really enjoy programming and working with computers in my free time. I also really enjoy playing tennis and pickle ball. In my free time I have been spending a lot of time recently learning C++, which I really enjoy doing.
+
