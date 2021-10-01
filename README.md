@@ -6,3 +6,5 @@ My name is Devin Johnson. I am a computer engineering major in my fourth semeste
 
 Hello, my name is Jadan White. I am a data science major and in my first semester here at BYU-I. I rock climb for fun and enjoy pretty much anything with computers. I have a long history with python but looking forward to learn more!
 
+My name is Carlos Lespin. I was born and raised in Puerto Rico, but I now call Orlando, Florida, my home. I am currently in BYU-Idaho studying Computer Engineering. I like dancing and hiking.
+
